@@ -53,3 +53,7 @@ footer {
   font-size: 22px;
   font-weight: bold;
 }
+
+.navLinks {
+  text-align: right;
+}

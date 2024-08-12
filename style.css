@@ -54,6 +54,21 @@ footer {
   font-weight: bold;
 }
 
-.navLinks {
-  text-align: right;
+.btn-branding {
+  font-size: 20px;
+  background-color: #f9e8f2;
+  color: darkorchid;
+}
+
+.contact-box {
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 15px;
+  border-radius: 10px;
+  border: solid;
+}
+
+footer p {
+  font-size: 12px;
+  margin: 25px;
 }

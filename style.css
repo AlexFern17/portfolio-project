@@ -26,6 +26,20 @@ body {
   max-width: 450px;
 }
 
+.contactContainer {
+  margin: 100px;
+  padding: 80px;
+  max-width: 70%;
+}
+
+.contactBtn {
+  display: inline-block;
+  font-size: 30px;
+  border: solid;
+  margin: 50px;
+  padding: 30px;
+}
+
 h2 {
   margin-top: 60px;
   padding: 30px;
